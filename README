@@ -1,0 +1,3 @@
+loopdefer reports defers that are called from loops.
+
+Usage: loopdefer file.go [otherfile.go] ...
